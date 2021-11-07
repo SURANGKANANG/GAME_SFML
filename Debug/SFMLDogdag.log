@@ -1,0 +1,174 @@
+﻿  main.cpp
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(35,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(35,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(107,55): warning C4244: 'argument': conversion from 'const float' to 'unsigned int', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(107,43): warning C4244: 'argument': conversion from 'const float' to 'unsigned int', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(108,59): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(108,39): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(154,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(155,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(155,43): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(157,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(157,47): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(159,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(159,47): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(161,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(161,48): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(163,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(163,48): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(165,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(165,48): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(168,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(168,48): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(170,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(170,48): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(172,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(172,48): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(174,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(174,48): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(176,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(176,50): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(178,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(178,50): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(181,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(181,50): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(183,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(183,50): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(185,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(185,50): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(187,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(187,50): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(189,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(189,50): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(191,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(191,50): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(194,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(194,50): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(196,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(196,50): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(198,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(198,50): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(200,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(200,51): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(202,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(202,51): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(204,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(204,51): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(207,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(207,51): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(209,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(209,51): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(211,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(211,51): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(213,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(213,51): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(215,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(215,51): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(217,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(217,51): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(220,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(220,51): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(222,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(222,51): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(224,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(224,51): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(234,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(236,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(238,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(240,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(242,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(244,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(246,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(248,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(250,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(252,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(254,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(256,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(258,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(260,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(262,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(264,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(266,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(268,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(270,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(272,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(276,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(278,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(280,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(282,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(284,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(286,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(288,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(290,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(292,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(294,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(296,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(298,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(300,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(302,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(304,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(306,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(308,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(310,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(312,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(314,16): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(476,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(510,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(512,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(514,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(516,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(518,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(520,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(522,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(524,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(526,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(528,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(530,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(532,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(534,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(536,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(538,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(540,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(542,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(544,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(546,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(548,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(552,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(554,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(556,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(558,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(560,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(562,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(564,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(566,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(568,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(570,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(572,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(574,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(576,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(578,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(580,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(582,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(584,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(586,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(588,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(590,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(1105,72): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\HP\Desktop\SFMLDogdag\SFMLDogdag\main.cpp(1105,42): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  SFMLDogdag.vcxproj -> C:\Users\HP\Desktop\SFMLDogdag\Debug\SFMLDogdag.exe
